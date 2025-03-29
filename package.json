@@ -1,0 +1,12 @@
+{
+  "name": "iptv-xtream-filter",
+  "version": "1.0.0",
+  "description": "Xtream Codes Compatible IPTV API with M3U Filtering",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
